@@ -18,7 +18,6 @@ Phase II
 6) Verify the upsert logic by insert and update statement by showing current time stamp column, once data get inserted it shows current time stamp.
 
 
-
 Phase III
 6) Create Final table
 7) Verify the upsert logic using Merge statement as per current time stamp.
