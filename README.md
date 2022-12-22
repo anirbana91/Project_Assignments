@@ -7,6 +7,7 @@ USE CASE
 --or he may not have placed any order to the associated supplier.
 
 Phase I
+
 --1)create a stored procedures 
 --2)push stored procedure data in a new table
 --3)Data gather by including current time stamp in a new column
