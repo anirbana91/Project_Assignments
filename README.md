@@ -15,9 +15,10 @@ Phase II
 4) create any primary key first on that table
 5) once you get new data , upsert that data into final table using a primary key
 6) Verify the upsert logic by insert and update statement by showing current time stamp column, once data get inserted it shows current time stamp.
+
+
+
 Phase III
-
-
 6) Create Final table
 7) Verify the upsert logic using Merge statement as per current time stamp.
 
