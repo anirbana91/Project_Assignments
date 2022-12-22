@@ -23,4 +23,18 @@ Phase III
 7) Verify the upsert logic using Merge statement as per current time stamp.
 
  
+ Data Set
+ 
+ Customer Dataset                                                                                 
+ ![image](https://user-images.githubusercontent.com/104115546/209087900-b7d441a2-395a-40e0-9646-6a6c109eb9a0.png)
+ 
+ Orders Dataset 
+ ![image](https://user-images.githubusercontent.com/104115546/209087986-8a98c51f-524c-4b9f-a5d5-55ca5eae200d.png)
+
+
+Salesman Data set
+
+![image](https://user-images.githubusercontent.com/104115546/209088027-315a0ee5-6dfc-4bb4-907a-cd68de07cb76.png)
+
+
 
