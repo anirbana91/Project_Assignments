@@ -1,0 +1,5 @@
+
+1.Divide 3 groups out of 9 students.
+2.Assig 3 separate task from same workflow to each group.
+3.Each group contain one leader who will help for implementation to the rest 2 people in their group.
+4.Tracking daily update report regarding given implementations from each group . (Daily Stand-up call).
